@@ -1,2 +1,2 @@
 # Redboxtv
-M3U list of available channels from Redbox TV on 17 February 2020
+M3U list of available channels from Redbox TV and Distro TV
